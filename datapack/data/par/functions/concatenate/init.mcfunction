@@ -1,0 +1,1 @@
+execute in overworld as 71835448-6bb1-4487-98ac-bb2f3101b255 at @s run function par:concatenate/strings

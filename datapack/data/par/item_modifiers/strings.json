@@ -1,0 +1,15 @@
+{
+    "function": "minecraft:set_name",
+    "entity": "this",
+    "name": [
+      {
+        "nbt": "in",
+        "storage": "par:data"
+      },
+      {
+        "nbt": "in2",
+        "storage": "par:data"
+      }
+    ]
+  }
+  

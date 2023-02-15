@@ -1,0 +1,16 @@
+{
+    "function": "minecraft:set_name",
+    "entity": "this",
+    "name": [
+      {
+        "nbt": "in",
+        "storage": "par:data"
+      },
+      {
+        "score": {
+          "name": "$value",
+          "objective": "par.var"
+        }
+      }
+    ]
+  }
